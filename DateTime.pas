@@ -4,4 +4,7 @@
     then write('Високосный')
   else write('Невисокосный')
   
+  var b:=random(0,60)
+  write(b*60)
+  
 end.
