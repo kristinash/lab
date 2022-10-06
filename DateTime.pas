@@ -4,4 +4,8 @@
     then write('Високосный')
   else write('Невисокосный')
   
+  var (d,f):=(random(1,31,)random(1,31))
+  if d>f then print(a)
+  else print(b)
+  
 end.
